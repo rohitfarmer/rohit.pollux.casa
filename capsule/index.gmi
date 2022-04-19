@@ -1,0 +1,15 @@
+#  Rohit Farmer, Ph.D.
+
+Welcome to my website on Gemini. I am a Computational Biologist by profession and I have interests in self hosting, Ham radio, FOSS, Blockchain/Crypto, and NFTs.
+
+## Site Navigation
+=> /gemlog/ Gemlog
+=> /research.gmi Research
+=> /cv.gmi CV
+
+Made with peace, love, and coffee.
+Copyright 2022 Rohit Farmer
+You are on my personal website; hence none of the content on this website reflects the views of any of my past or present employers.
+
+
+

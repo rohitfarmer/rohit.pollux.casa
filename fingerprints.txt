@@ -1,0 +1,1 @@
+## put your client certificate fingerprints in this file, one per line, starting with hash method ( SHA256:xxxxxxxx.... )
