@@ -7,9 +7,7 @@ Welcome to my website on Gemini. I am a Computational Biologist by profession an
 => /research.gmi Research
 => /cv.gmi CV
 
-Made with peace, love, and coffee.
+----
+Made with ✌️ ❤️ ☕.
 Copyright 2022 Rohit Farmer
 You are on my personal website; hence none of the content on this website reflects the views of any of my past or present employers.
-
-
-
