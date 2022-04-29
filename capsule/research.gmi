@@ -2,7 +2,7 @@
 
 => / Home
 
->Research is what I'm doing when I don't know what I'm doing. - Wernher von Braun
+> Research is what I'm doing when I don't know what I'm doing. - Wernher von Braun
 
 Presently I am working as a Computational Biologist at the Center for Human Immunology, Autoimmunity and Inflammation (CHI), National Institutes of Health, Bethesda, Maryland, USA. I am building tools to analyze data on multiple platforms such as CyTOF, high parameter flow cytometry, and SomaLogic. I perform analyses ranging from classical statistics to machine/deep learning.
 

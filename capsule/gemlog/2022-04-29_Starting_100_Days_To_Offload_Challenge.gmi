@@ -1,3 +1,6 @@
+=> / Home
+=> /gemlog Gemlog
+
 # Starting 100 Days To Offload Challenge
 
 Today, on April 29, 2022, I am starting the #100DaysToOffload challenge initiated by Kev Quirk.

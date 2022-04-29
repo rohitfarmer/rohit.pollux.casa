@@ -6,6 +6,7 @@ Welcome to my website on Gemini. I am a Computational Biologist by profession an
 => /gemlog/ Gemlog
 => /research.gmi Research
 => /cv.gmi CV
+=> /tech.gmi Technical Hobbies
 
 ----
 Made with ✌️ ❤️ ☕.

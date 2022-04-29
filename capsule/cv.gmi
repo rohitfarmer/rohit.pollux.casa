@@ -2,7 +2,7 @@
 
 => / Home
 
->Show me your resume and I will tell you what occupational diseases you may have. - Steven Magee
+> Show me your resume and I will tell you what occupational diseases you may have. - Steven Magee
 
 ## Download Resume/CV
 => https://github.com/rohitfarmer/cv/raw/master/resume/resume.pdf Industrial Resume PDF 
