@@ -2,12 +2,17 @@
 
 Welcome to my website on Gemini. I am a Computational Biologist by profession and I have interests in self hosting, Ham radio, FOSS, Blockchain/Crypto, and NFTs.
 
+> I am participating in 100DaysToOffLoad challenge starting from April 29, 2022. Check out my gemlog. 
+
 ## Site Navigation
 => /gemlog/ Gemlog
 => /research.gmi Research
 => /cv.gmi CV
 => /tech.gmi Technical Hobbies
 => /connect.gmi Let's Connect
+
+
+=> https://ko-fi.com/rohitfarmer For any reason, if you want to buy me a coffee!
 
 ----
 Made with ✌️ ❤️ ☕.
