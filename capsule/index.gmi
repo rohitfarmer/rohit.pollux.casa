@@ -4,6 +4,8 @@ Welcome to my website on Gemini. I am a Computational Biologist by profession an
 
 > I am participating in 100DaysToOffLoad challenge starting from April 29, 2022. Check out my gemlog. 
 
+=> https://tinyletter.com/rohitfarmer Sign up to my newsletter to get all my non-technical blog posts from across the platforms right in your inbox.
+
 ## Site Navigation
 => /gemlog/ Gemlog
 => /research.gmi Research
