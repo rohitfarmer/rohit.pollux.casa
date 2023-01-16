@@ -1,8 +1,9 @@
 #  Rohit Farmer, Ph.D.
 
-Welcome to my website on Gemini. I am a Computational Biologist by profession and I have interests in self hosting, Ham radio, FOSS, Blockchain/Crypto, and NFTs.
+Welcome to my Gemini capsule. I am a Computational Biologist by profession and I have interests in self hosting, Ham radio, FOSS, blockchain/crypto, and NFTs.
 
-=> https://tinyletter.com/rohitfarmer Sign up for my newsletter to get all my non-technical blog posts from across the platforms right in your inbox.
+My https website at
+=> https://rohitfarmer.com
 
 ## Site Navigation
 => /gemlog/ Gemlog
@@ -11,6 +12,9 @@ Welcome to my website on Gemini. I am a Computational Biologist by profession an
 => /tech.gmi Technical Hobbies
 => /connect.gmi Let's Connect
 => /bookmarks.gmi Bookmarks
+
+
+=> https://tinyletter.com/rohitfarmer Sign up for my newsletter to get all my non-technical blog posts from across the platforms right in your inbox.
 
 ----
 Made with ✌️ ❤️ ☕.
