@@ -10,6 +10,7 @@ Welcome to my website on Gemini. I am a Computational Biologist by profession an
 => /cv.gmi CV
 => /tech.gmi Technical Hobbies
 => /connect.gmi Let's Connect
+=> /bookmarks.gmi Bookmarks
 
 ----
 Made with ✌️ ❤️ ☕.
