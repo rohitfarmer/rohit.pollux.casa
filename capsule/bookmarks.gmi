@@ -13,8 +13,15 @@ Feed aggregator
 Ben's website
 => gemini://kwiecien.us/
 
+Conman laboratories
+=> gemini://gemini.conman.org/
+
+Rohan Kumar's capsule
+=> gemini://seirdy.one/
+
 Silas S. Brown’s Gemini capsule ( computer scientist at Cambridge University)
 => gemini://gemini.ctrl-c.club/~ssb22/
 
 StackSmith's basement
 => gemini://gemini.ctrl-c.club/~stack/
+
